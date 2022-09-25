@@ -12,6 +12,7 @@ pygame.init()
 
 #inizializza finestra
 window = pygame.display.set_mode((k.WIDTH, k.HEIGHT))
+pygame.display.set_caption("Pong")
 color = "black"
 
 #definisce i font
