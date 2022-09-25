@@ -1,7 +1,5 @@
-import random
 import constants as k
 import cmath
-import Player
 
 class Ball:
     def __init__(self,x,y,speed, alpha, radius):
